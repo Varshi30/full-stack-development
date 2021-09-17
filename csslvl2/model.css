@@ -1,0 +1,28 @@
+h1
+{
+  margin-left:500px;
+  margin-right:500px;
+  margin-top:50px;
+  margin-bottom:50px;
+  background-color:black;
+color:slateblue;
+border-color:solidblue;
+border-style: double;
+text-align: center;
+}
+h2
+{
+  margin-left:500px;
+  margin-right:200px;
+margin-top: 10px;
+margin-bottom: 90px;
+padding-right: 60px;
+padding-left: 60px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-color:blue;
+  border-style: double;
+text-align:center;
+color:red;
+background-color:aqua;
+}
